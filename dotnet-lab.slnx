@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/01-Oop/">
+    <Project Path="src/01-Oop/Oop.Fundamentals/Oop.Fundamentals.csproj" />
+  </Folder>
+</Solution>
